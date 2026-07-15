@@ -1,0 +1,26 @@
+# Godot generated files
+.godot/
+.import/
+
+# Godot Android build template
+android/
+
+# Exported builds
+*.exe
+*.apk
+*.aab
+
+# Export folders
+export/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
